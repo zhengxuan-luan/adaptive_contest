@@ -1,0 +1,110 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (win64) Build 2552052 Fri May 24 14:49:42 MDT 2019
+| Date         : Sat Mar  5 16:07:39 2022
+| Host         : LAPTOP-EDC3H5BI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_ps7_0_axi_periph_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_ps7_0_axi_periph_0 (xilinx.com:ip:axi_interconnect:2.1) from (Rev. 19) to (Rev. 20)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (win64) Build 2552052 Fri May 24 14:49:42 MDT 2019
+| Date         : Sat Mar  5 16:07:39 2022
+| Host         : LAPTOP-EDC3H5BI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_mnist_nn_predict_0_bram_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_mnist_nn_predict_0_bram_1 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (win64) Build 2552052 Fri May 24 14:49:42 MDT 2019
+| Date         : Sat Mar  5 16:07:39 2022
+| Host         : LAPTOP-EDC3H5BI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_mnist_nn_predict_0_bram_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_mnist_nn_predict_0_bram_0 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (win64) Build 2552052 Fri May 24 14:49:42 MDT 2019
+| Date         : Sat Mar  5 16:07:39 2022
+| Host         : LAPTOP-EDC3H5BI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_bram_ctrl_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_bram_ctrl_0_2 (xilinx.com:ip:axi_bram_ctrl:4.1) to (Rev. 1)
+
+2. Upgrade messages
+-------------------
+
+Removed parameter C_SELECT_XPM
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (win64) Build 2552052 Fri May 24 14:49:42 MDT 2019
+| Date         : Sat Mar  5 16:07:39 2022
+| Host         : LAPTOP-EDC3H5BI running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_bram_ctrl_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_bram_ctrl_0_1 (xilinx.com:ip:axi_bram_ctrl:4.1) to (Rev. 1)
+
+2. Upgrade messages
+-------------------
+
+Removed parameter C_SELECT_XPM
+
